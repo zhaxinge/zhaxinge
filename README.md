@@ -10,7 +10,7 @@ In this repository, you will find a range of projects and analyses focused on va
 
 - :construction: **Cities**: [Precision-Forecast](https://github.com/zhaxinge/Precision-Forecast) Investigating urban systems, land use patterns, urban design, and the interplay of various factors shaping urban environments.
 - :train2: **Transportation**: [Predictive-Parking-Occupancy](https://github.com/zhaxinge/Predictive-Parking-Occupancy), [xy-scooter](https://github.com/zhaxinge/xy-scooter) Analyzing transportation networks, mobility patterns, and the impact of transportation infrastructure on urban dynamics and accessibility.
-- :house: **Housing**:  [Kenya-Land-Value](https://github.com/zhaxinge/Kenya-Land-Value) [Charlotte-Houseprice-Prediction](https://github.com/zhaxinge/Charlotte-Houseprice-Prediction) Understanding the socio-economic characteristics of urban populations and exploring their implications on urban development and planning.
+- :house: **Housing**:  [Kenya-Land-Value](https://github.com/zhaxinge/Kenya-Land-Value), [Charlotte-Houseprice-Prediction](https://github.com/zhaxinge/Charlotte-Houseprice-Prediction) Understanding the socio-economic characteristics of urban populations and exploring their implications on urban development and planning.
 
 ### Contact
 I am always open to collaborations, discussions, and feedback. If you have any questions, suggestions, or would like to connect with me, please feel free to reach out via email at [ssee0132@gmail.com] or connect with me on [LinkedIn](linkedin.com/in/xinge-zhang-b26a4521a).
